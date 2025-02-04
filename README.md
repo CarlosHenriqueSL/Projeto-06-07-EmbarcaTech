@@ -86,8 +86,8 @@ Este projeto utiliza um sistema de temporização one-shot para controlar três 
   - Botão pushbutton (apenas no projeto One Shot)
 
 - **Ferramenta de Simulação:**
-  VsCode
-  Simulador Wokwi (opcional para testes virtuais).
+  - VsCode
+  - Simulador Wokwi (opcional para testes virtuais).
 
 ---
 
@@ -98,17 +98,15 @@ Este projeto utiliza um sistema de temporização one-shot para controlar três 
    ```bash
    git clone https://github.com/CarlosHenriqueSL/Projeto-06-07-EmbarcaTech.git
    cd Projeto-06-07-EmbarcaTech
-   Configuração do Pico SDK:
 
 2. **Configuração do Pico SDK:**
   Certifique-se de que o Pico SDK está configurado e instalado no VS Code ou em seu ambiente de desenvolvimento.
 Verifique os arquivos CMakeLists.txt em cada pasta de projeto e ajuste-os se necessário para sua configuração.
-Abrindo os Projetos:
 
 3. **Abrindo os projetos:**
-  Para o semáforo, navegue até a pasta ProjetoSemaforo:
-  cd ProjetoSemaforo
+  - Para o semáforo, navegue até a pasta ProjetoSemaforo:
+     - cd ProjetoSemaforo
 
-  Para o temporizador one-shot, navegue até a pasta ProjetoOneShot:
-  cd ProjetoOneShot
+  - Para o temporizador one-shot, navegue até a pasta ProjetoOneShot:
+     - cd ProjetoOneShot
 
