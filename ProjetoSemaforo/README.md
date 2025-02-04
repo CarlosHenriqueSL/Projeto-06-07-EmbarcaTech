@@ -44,7 +44,6 @@ O ciclo se repete indefinidamente, enquanto o programa imprime mensagens de stat
    https://github.com/CarlosHenriqueSL/Projeto-06-07-EmbarcaTech.git
    cd Projeto-06-07-EmbarcaTech
    cd ProjetoSemaforo
-   
    ```
 
 2. Certifique-se de que o **Pico SDK** está configurado no VS Code.
