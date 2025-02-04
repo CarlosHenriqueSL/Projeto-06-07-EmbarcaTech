@@ -41,7 +41,6 @@ Esse projeto aciona três LEDs no acionamento do botão configurado. A cada trê
    https://github.com/CarlosHenriqueSL/Projeto-06-07-EmbarcaTech.git
    cd Projeto-06-07-EmbarcaTech
    cd ProjetoOneShot
-   
    ```
 
 2. Certifique-se de que o **Pico SDK** está configurado no VS Code.
